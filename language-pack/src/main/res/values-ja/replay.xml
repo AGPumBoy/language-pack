@@ -19,6 +19,5 @@
     <string name="replay_wrongmap">現在選択しているマップに対応するリプレイではありません。</string>
     <string name="replay_corrupted">リプレイファイルに不具合があります。</string>
 
-<!-- All new strings should present below for better managing locals... -->
 
 </resources>

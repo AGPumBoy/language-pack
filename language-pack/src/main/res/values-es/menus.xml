@@ -55,6 +55,5 @@
     <string name="opt_show_scoreboard_title">Mostrar tabla de puntuaciones</string>
     <string name="epilepsy_warning">Este mapa contiene escenas con colores que parpadean rápidamente.\nTenga cuidado si padece de epilepsia.</string>
 
-<!-- All new strings should present below for better managing locals... -->
 
 </resources>

@@ -54,6 +54,13 @@
     <string name="message_loaded_skin">スキンの適用が完了しました!</string>
     <string name="message_error_dir_not_found">ディレクトリが見つかりませんでした。</string>
     <string name="file_integrity_tampered">ファイル検証に失敗しました. ゲームプレイを中断します。</string>
+    <string name="library_skin_importing">Importing skin...</string>
+    <string name="import_failed_open_file">Failed to open file for import.</string>
+
+    <string name="act_import_beatmap">Import beatmap into osu!droid</string>
+    <string name="act_import_file">Import file into osu!droid</string>
+    <string name="act_import_skin">Import skin into osu!droid</string>
+
 
     <!-- Parser -->
     <string name="beatmap_parser_cannot_open_file" formatted="false">読み込み失敗 %s: ビートマップファイルが開けませんでした。</string>
@@ -74,6 +81,5 @@
     <string name="update_info_updated">アップデートのインストールに成功しました！</string>
     <string name="update_info_latest">更新できるアップデートがありません。</string>
 
-<!-- All new strings should present below for better managing locals... -->
 
 </resources>

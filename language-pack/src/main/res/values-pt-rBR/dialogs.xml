@@ -29,6 +29,5 @@
     <string name="multi_mode_window_alert_title">Modo Multi-janela</string>
     <string name="multi_mode_window_alert_message">osu!droid não suporta o modo multi-janela. Por favor, troque denovo para o modo de uma janela para continuar jogando.</string>
 
-<!-- All new strings should present below for better managing locals... -->
 
 </resources>

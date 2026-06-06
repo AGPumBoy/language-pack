@@ -206,6 +206,26 @@
     <string name="opt_category_offset">Offset</string>
     <string name="opt_offset_title">Configurar offset</string>
     <string name="opt_offset_summary">Offset de la música en ms (valores positivos indican golpes más tempranos)</string>
+    <string name="opt_offset_calibration_title">Offset Calibration</string>
+    <string name="opt_offset_calibration_summary">Tap along with a metronome to measure your device's audio latency</string>
+
+    <string name="opt_offset_calibration_tap_hint">TAP ALONG WITH THE BEAT</string>
+    <string name="opt_offset_calibration_calibration">CALIBRATION</string>
+    <string name="opt_offset_calibration_offset">OFFSET</string>
+    <string name="opt_offset_calibration_reset">RESET</string>
+    <string name="opt_offset_calibration_set">SET</string>
+    <string name="opt_offset_calibration_settings">SETTINGS</string>
+    <string name="opt_offset_calibration_judgement_perfect">PERFECT</string>
+    <string name="opt_offset_calibration_judgement_good">GOOD</string>
+    <string name="opt_offset_calibration_judgement_meh">MEH</string>
+    <string name="opt_offset_calibration_judgement_miss">MISS</string>
+    <string name="opt_offset_calibration_streak">Keep going! %sx combo</string>
+    <string name="opt_offset_calibration_streak_combo">%sx combo</string>
+    <string name="opt_offset_calibration_feedback_perfect">Perfect!</string>
+    <string name="opt_offset_calibration_feedback_late">Late</string>
+    <string name="opt_offset_calibration_feedback_early">Early</string>
+    <string name="opt_offset_calibration_feedback_tap_count">taps</string>
+
 
     <string name="opt_gameAudioSynchronizationThreshold_title">Límite mínimo de sincronización</string>
     <string name="opt_gameAudioSynchronizationThreshold_summary">La diferencia de tiempo mínima (en milisegundos) entre el juego y el audio para que el juego intente sincronizarse con el audio.\n\nUn límite inferior aumenta la frecuencia de los intentos de sincronización. Si se prefiere un desfase constante, utilice un límite superior.</string>
@@ -317,6 +337,5 @@
     <string name="opt_safe_beatmap_bg_title">Usar el fondo de la skin</string>
     <string name="opt_safe_beatmap_bg_summary">Esto hará que siempre se use el fondo de la skin que estés utilizando mientras juegas</string>
 
-<!-- All new strings should present below for better managing locals... -->
 
 </resources>

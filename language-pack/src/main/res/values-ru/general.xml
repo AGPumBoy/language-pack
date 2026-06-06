@@ -54,6 +54,13 @@
     <string name="message_loaded_skin">Применен новый скин!</string>
     <string name="message_error_dir_not_found">Директория не найдена</string>
     <string name="file_integrity_tampered">Проверка целостности файла не удалась. Игровой процесс прерван.</string>
+    <string name="library_skin_importing">Importing skin...</string>
+    <string name="import_failed_open_file">Failed to open file for import.</string>
+
+    <string name="act_import_beatmap">Import beatmap into osu!droid</string>
+    <string name="act_import_file">Import file into osu!droid</string>
+    <string name="act_import_skin">Import skin into osu!droid</string>
+
 
     <!-- Parser -->
     <string name="beatmap_parser_cannot_open_file" formatted="false">Не удалось загрузить%s: Не удалось открыть файл карты.</string>

@@ -158,6 +158,5 @@
     <string name="multiplayer_room_chat_send">Send</string>
     <string name="multiplayer_room_chat_error">Error to send message: %s</string>
 
-<!-- All new strings should present below for better managing locals... -->
 
 </resources>

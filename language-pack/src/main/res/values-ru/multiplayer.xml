@@ -159,6 +159,5 @@
     <string name="multiplayer_room_chat_send">Отправить</string>
     <string name="multiplayer_room_chat_error">Не удалось отправить сообщение: %s</string>
 
-<!-- All new strings should present below for better managing locals... -->
 
 </resources>

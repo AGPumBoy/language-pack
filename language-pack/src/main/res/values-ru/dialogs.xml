@@ -29,6 +29,5 @@
     <string name="multi_mode_window_alert_title">Мультиоконный режим</string>
     <string name="multi_mode_window_alert_message">osu!droid не поддерживает мультиоконный режим. Пожалуйста, вернитесь в обычный режим, чтобы играть.</string>
 
-<!-- All new strings should present below for better managing locals... -->
 
 </resources>

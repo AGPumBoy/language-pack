@@ -54,6 +54,13 @@
     <string name="message_loaded_skin">¡Se ha aplicado la nueva skin correctamente!</string>
     <string name="message_error_dir_not_found">El directorio no se ha podido encontrar.</string>
     <string name="file_integrity_tampered">La comprobación de la integridad del archivo no se ha podido realizar correctamente. Abortando gameplay.</string>
+    <string name="library_skin_importing">Importing skin...</string>
+    <string name="import_failed_open_file">Failed to open file for import.</string>
+
+    <string name="act_import_beatmap">Import beatmap into osu!droid</string>
+    <string name="act_import_file">Import file into osu!droid</string>
+    <string name="act_import_skin">Import skin into osu!droid</string>
+
 
     <!-- Parser -->
     <string name="beatmap_parser_cannot_open_file" formatted="false">Fallo al cargar %s: No se ha podido abrir el archivo del mapa.</string>

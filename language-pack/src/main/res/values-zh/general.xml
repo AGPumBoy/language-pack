@@ -58,6 +58,13 @@
   <string name="message_loaded_skin">新皮肤应用成功</string>
   <string name="message_error_dir_not_found">未找到文件夹</string>
   <string name="file_integrity_tampered">游戏文件完整性检查失败，游戏中止</string>
+    <string name="library_skin_importing">Importing skin...</string>
+    <string name="import_failed_open_file">Failed to open file for import.</string>
+
+    <string name="act_import_beatmap">Import beatmap into osu!droid</string>
+    <string name="act_import_file">Import file into osu!droid</string>
+    <string name="act_import_skin">Import skin into osu!droid</string>
+
   <!-- Parser -->
   <string name="beatmap_parser_cannot_open_file" formatted="false">无法加载 %s：无法打开谱面文件</string>
   <!-- Block area manager fragment -->

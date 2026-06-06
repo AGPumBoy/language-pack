@@ -54,6 +54,13 @@
     <string name="message_loaded_skin">새로운 스킨이 성공적으로 적용되었습니다!</string>
     <string name="message_error_dir_not_found">경로를 찾을 수 없습니다</string>
     <string name="file_integrity_tampered">파일 무결성 검사에 실패했습니다. 게임 플레이를 중단합니다.</string>
+    <string name="library_skin_importing">Importing skin...</string>
+    <string name="import_failed_open_file">Failed to open file for import.</string>
+
+    <string name="act_import_beatmap">Import beatmap into osu!droid</string>
+    <string name="act_import_file">Import file into osu!droid</string>
+    <string name="act_import_skin">Import skin into osu!droid</string>
+
 
     <!-- Parser -->
     <string name="beatmap_parser_cannot_open_file" formatted="false">%s 로딩 실패: 비트맵 파일을 열 수 없습니다.</string>
@@ -74,6 +81,5 @@
     <string name="update_info_updated">업데이트가 성공적으로 설치되었습니다!</string>
     <string name="update_info_latest">새로운 업데이트가 없습니다.</string>
 
-<!-- All new strings should present below for better managing locals... -->
 
 </resources>

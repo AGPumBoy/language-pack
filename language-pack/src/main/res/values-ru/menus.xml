@@ -55,6 +55,5 @@
     <string name="opt_show_scoreboard_title">Показывать таблицу рекордов</string>
     <string name="epilepsy_warning">Эта карта содержит сцены с резкими вспышками цветов.\nПожалуйста, будьте осторожны, если вы страдаете эпилепсией.</string>
 
-<!-- All new strings should present below for better managing locals... -->
 
 </resources>

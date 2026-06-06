@@ -54,6 +54,13 @@
     <string name="message_loaded_skin">Skin aplicada</string>
     <string name="message_error_dir_not_found">A pasta não existe</string>
     <string name="file_integrity_tampered">Checkagem de integridade dos arquivos falhada. Abortando gameplay</string>
+    <string name="library_skin_importing">Importing skin...</string>
+    <string name="import_failed_open_file">Failed to open file for import.</string>
+
+    <string name="act_import_beatmap">Import beatmap into osu!droid</string>
+    <string name="act_import_file">Import file into osu!droid</string>
+    <string name="act_import_skin">Import skin into osu!droid</string>
+
 
     <!-- Parser -->
     <string name="beatmap_parser_cannot_open_file" formatted="false">Falha carregando %s: Não foi possível abrir o arquivo do beatmap</string>
@@ -74,6 +81,5 @@
     <string name="update_info_updated">Update instalado com sucesso!</string>
     <string name="update_info_latest">Sem updates disponíveis</string>
 
-<!-- All new strings should present below for better managing locals... -->
 
 </resources>

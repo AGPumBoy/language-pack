@@ -55,6 +55,5 @@
     <string name="opt_show_scoreboard_title">스코어보드 표시</string>
     <string name="epilepsy_warning">이 비트맵에는 색상이 빠르게 깜빡이는 장면이 포함되어 있습니다.\n간질 발작이 있는 경우 주의하시기 바랍니다.</string>
 
-<!-- All new strings should present below for better managing locals... -->
 
 </resources>
