@@ -159,7 +159,7 @@
   <string name="opt_offset_title">全局延时</string>
   <string name="opt_offset_summary">毫秒计音乐延时（负值则为提前）</string>
     <string name="opt_offset_calibration_title">Offset Calibration</string>
-    <string name="opt_offset_calibration_summary">Tap along with a metronome to measure your device's audio latency</string>
+    <string name="opt_offset_calibration_summary">Tap along with a metronome to measure your device\'s audio latency</string>
 
     <string name="opt_offset_calibration_tap_hint">TAP ALONG WITH THE BEAT</string>
     <string name="opt_offset_calibration_calibration">CALIBRATION</string>

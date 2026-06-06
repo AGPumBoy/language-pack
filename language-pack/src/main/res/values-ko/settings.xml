@@ -207,7 +207,7 @@
     <string name="opt_offset_title">글로벌 오프셋</string>
     <string name="opt_offset_summary">노래 오프셋 단위:ms (클수록 노래가 맵보다 빨리 시작됩니다.)</string>
     <string name="opt_offset_calibration_title">Offset Calibration</string>
-    <string name="opt_offset_calibration_summary">Tap along with a metronome to measure your device's audio latency</string>
+    <string name="opt_offset_calibration_summary">Tap along with a metronome to measure your device\'s audio latency</string>
 
     <string name="opt_offset_calibration_tap_hint">TAP ALONG WITH THE BEAT</string>
     <string name="opt_offset_calibration_calibration">CALIBRATION</string>
